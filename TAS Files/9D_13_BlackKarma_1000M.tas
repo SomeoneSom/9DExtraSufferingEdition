@@ -7,8 +7,10 @@ console reset_vanilla_variants
 console reset_extended_variants
 
 console load nameguysdsidespack/0/10-Farewell 109280 -18296
+   1
+
 #Start
-   37
+   36
 
 #lvl_l-01
    6,R
