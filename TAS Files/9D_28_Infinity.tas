@@ -1,6 +1,4 @@
-#Made by pansear
-#6X
-RecordCount: 652
+RecordCount: 864
 
 console load nameguysdsidespack/0/10-Farewell z-01
    1
@@ -22,9 +20,7 @@ console givekey
 console givekey
 console givekey
 console givekey
-
 #lvl_z-01
-#1x
   10,R
    4,Z
    6,R,J
@@ -42,7 +38,6 @@ console givekey
   40,J
 
 #lvl_z-02
-#1x
    6,R,J
    1,R,K,G
    3,L,K
@@ -90,53 +85,64 @@ console givekey
   40
 
 #lvl_z-03
-#2x
-  23,R
+  20,R
    2
+   3,R
    1,R,J,G
-  12,R
-  35,R,J
-  17,R,U,X
-  12,R,J,G
+   1,R,K,G
+   4,R
+   9,L,U,J,G
+   8,L,U,G
+   1,K,G
+   4,L
    3
-   2,R
+   5,R
+  34,R,J,G
+   2,K,G
+   2,L,K
+   1,J
+   2,L,J
+   7,J
+   1,K
+   9,R,K
+   7,R
+   3,R,K
+   4,R
    1
+   1,R
+   1,R,J,G
+   3,R,K,G
+   5,R
+   2,R,K
   11,R
    1,R,J
-  17,D
-   6,R,D
-   7,R,J
-  15,R
-   2,L
-   1,J,G
-  11,L,J
-   7
+  14,R
+   1
    1,R
-  10
-   3,R,D
-   3,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   2,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-   1,L,D
-   3,R,D
-   2,D
-   2,R,D
-  31,R,J
-  15,U,X
+   2
    2,R
-  19,R,J
-  12,K
+   7,R,J
+   1,R
+   1
+   5,R,J
+   6,R
+  10,L,D
+repeat 3
+   1,D
+   1,L,D
+endrepeat
+   9,D
+   1,J
+   2,K,G
+  28,R,K
+  16,U,X
+  18,R,J
+  10,L,K
   10,J
-   8,K
+  11,R,K
   40
 
 #lvl_z-04   
-#2x
    3,J
    1,R,K,G
    1,R,J,G
@@ -152,7 +158,6 @@ console givekey
   40
 
 #lvl_z-05
-#0x
    3,L,J
    9,L
    2,L,D
@@ -201,7 +206,6 @@ console givekey
   40
 
 #lvl_z-06
-#0x
    1,L,J,G
   27,L,K,G
    3,J,G
@@ -264,7 +268,6 @@ console givekey
   40
 
 #lvl_z-moom
-#0x
    1,R,J,G
    1,R,K,G
   20,R
@@ -319,4 +322,3 @@ console givekey
   12,L,K
    2,J
   43,D
- 
