@@ -1,9 +1,10 @@
-RecordCount: 2272
+RecordCount: 2273
 console load nameguysdsidespack/0/10-Farewell 102480 -15536
 
    1
 #Start
 #lvl_k-01
+#0x
   36
    6,R
    1,R,J
@@ -51,6 +52,7 @@ endrepeat
   40
 
 #lvl_k-02
+#1x
    4,J
    1,L,K,G
    1,J,G
@@ -97,6 +99,7 @@ endrepeat
   40
 
 #lvl_k-03
+#0x
    8,R
    1,R,J,G
    9,R,K,G
@@ -156,6 +159,7 @@ endrepeat
   40
 
 #lvl_k-03
+#2x
   26,R
 repeat 5
    1,R
@@ -215,6 +219,7 @@ endrepeat
   40
 
 #lvl_k-05
+#1x
   19,R
    3,R,D
   30,R
@@ -234,6 +239,7 @@ endrepeat
   40
 
 #lvl_k-06
+#3x
    1,J
    3,R,J
   11,R
@@ -281,7 +287,8 @@ endrepeat
    7,R
   40
 
-#lvl_k-06
+#lvl_k-07
+#2x
    1,R
   72,O
    4,D,X
@@ -325,6 +332,7 @@ endrepeat
   40
 
 #lvl_k-08
+#0x
    1,R
    6,R,D,J
 repeat 9
@@ -374,6 +382,8 @@ endrepeat
   40
 
 #lvl_k-09
+#0x
+***
    5,R,J
   35,R
    1
@@ -392,7 +402,6 @@ endrepeat
    3,J,G
    8,R,J
   12,R,K,G
-   
    5,R
    1,R,J
    4,R
@@ -405,6 +414,9 @@ endrepeat
    2,R,J
    6,J
   40
+
+#lvl_k-10
+#1x
    8
    1,J
   43,D
@@ -438,6 +450,7 @@ endrepeat
   40
 
 #lvl_k-11
+#3x
    4,R
    1,D,J
   15,R,J
@@ -504,7 +517,6 @@ endrepeat
    1,L,D
    6,R,D
    3
-
    2,G
    2,R,J,G
    5,R
@@ -530,6 +542,7 @@ endrepeat
   40
 
 #lvl_k-12
+#6x
    4,R,J
    5,R
    2
@@ -588,7 +601,6 @@ endrepeat
    1,R,J
   21,L,J
    4,R,J,G
-
    1,K,G
   11,J,G
    4,K,G
